@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ajouter un Élément</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Ajouter un Élément</h1>
+
+    <form method="post" action="{{ url_for('ajouter_element') }}">
+        <label for="ville">Ville :</label>
+        <input type="text" id="ville" name="ville" required>
+
+        <label for="quartier">Quartier :</label>
+        <input type="text" id="quartier" name="quartier" required>
+
+        <label for="prix">Prix au m² :</label>  <!-- Modifier ici -->
+        <input type="text" id="prix" name="prix" required>  <!-- Modifier ici -->
+
+        <button type="submit">Ajouter</button>
+    </form>
+
+    <form method="get" action="{{ url_for('main_page') }}">
+        <button type="submit">Retour</button>
+    </form>
+</body>
+</html>

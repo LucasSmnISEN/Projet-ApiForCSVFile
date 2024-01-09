@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recherche de Prix</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Recherche de Prix</h1>
+
+    <form method="post">
+        <label for="ville">Ville :</label>
+        <select id="ville" name="ville">
+            {% for v in villes %}
+                <option value="{{ v }}">{{ v }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="quartier">Quartier :</label>
+        <select id="quartier" name="quartier">
+            {% for q in quartiers %}
+                <option value="{{ q }}">{{ q }}</option>
+            {% endfor %}
+        </select>
+
+        <button type="submit">Valider</button>
+    </form>
+
+    <a href="{{ url_for('ajouter_element') }}"> <!-- Ajout du lien ici -->
+        <button>Ajouter un Élément</button>
+    </a>
+    
+    {% if ville and quartier and prix %}
+        <p>Le prix pour {{ ville }} - {{ quartier }} est de {{ prix }} €/m².</p>
+    {% elif erreur %}
+        <p>{{ erreur }}</p>
+    {% endif %}
+</body>
+</html>

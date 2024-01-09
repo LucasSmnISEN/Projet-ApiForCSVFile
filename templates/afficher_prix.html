@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Afficher Prix</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Afficher Prix</h1>
+
+    {% if resultats %}
+        <h2>Résultats pour {{ ville }} - {{ quartier }} :</h2>
+        <ul>
+            {% for resultat in resultats %}
+                <li>{{ resultat['Prix'] }} €/m²</li>
+            {% endfor %}
+        </ul>
+    {% elif erreur %}
+        <p>{{ erreur }}</p>
+    {% endif %}
+
+    <form method="get" action="{{ url_for('main_page') }}">
+        <button type="submit">Retour</button>
+    </form>
+</body>
+</html>

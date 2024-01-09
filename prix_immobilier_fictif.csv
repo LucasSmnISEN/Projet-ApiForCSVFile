@@ -1,0 +1,1001 @@
+Ville,Quartier,Prix au m²
+Berlin,Est,19393
+Londres,Historique,10393
+New York,Sud,6074
+Rome,Moderne,23204
+Madrid,Commercial,5276
+Berlin,Moderne,5493
+Madrid,Résidentiel,21947
+Sydney,Moderne,6064
+New York,Industriel,6447
+Dubai,Industriel,16514
+New York,Nord,16712
+Madrid,Ouest,16490
+Moscou,Nord,10261
+Moscou,Ouest,6616
+Madrid,Résidentiel,24545
+Madrid,Résidentiel,20454
+Moscou,Nord,18980
+Sydney,Sud,22709
+Paris,Est,18512
+Londres,Industriel,13796
+Tokyo,Sud,19036
+Londres,Nord,13824
+Londres,Ouest,21405
+Tokyo,Sud,7364
+Rome,Commercial,6898
+Rome,Commercial,5614
+Sydney,Est,8182
+Madrid,Résidentiel,7306
+Sydney,Est,9230
+Tokyo,Sud,12129
+New York,Centre,8986
+New York,Centre,20194
+Moscou,Moderne,13237
+Berlin,Nord,7552
+Dubai,Industriel,16904
+Paris,Moderne,19402
+Sydney,Nord,13458
+Madrid,Nord,21797
+Berlin,Résidentiel,21543
+Tokyo,Moderne,9600
+Moscou,Sud,9048
+Madrid,Résidentiel,10817
+Moscou,Industriel,17209
+Berlin,Est,8585
+Moscou,Historique,13504
+Tokyo,Est,17065
+Tokyo,Moderne,21132
+Tokyo,Est,5307
+Madrid,Commercial,23249
+Sydney,Industriel,5287
+Rome,Centre,5588
+Paris,Résidentiel,10410
+New York,Centre,8717
+Sydney,Commercial,16954
+Madrid,Industriel,19478
+New York,Moderne,8476
+Madrid,Moderne,7701
+Rome,Ouest,9391
+Sydney,Centre,7673
+Paris,Sud,13228
+Londres,Moderne,13182
+Moscou,Historique,10348
+Dubai,Moderne,22492
+Madrid,Ouest,16452
+New York,Centre,6887
+Sydney,Est,12130
+Berlin,Commercial,10336
+Sydney,Historique,8565
+Paris,Nord,24997
+Sydney,Industriel,14169
+Sydney,Résidentiel,16102
+Moscou,Commercial,21842
+New York,Résidentiel,24021
+Berlin,Résidentiel,8257
+Dubai,Sud,13962
+Paris,Est,22383
+Londres,Commercial,11977
+Madrid,Centre,20184
+Dubai,Sud,13951
+Dubai,Nord,5621
+Berlin,Est,5759
+Sydney,Résidentiel,6826
+Tokyo,Résidentiel,11052
+Madrid,Est,15409
+Madrid,Moderne,24538
+Rome,Ouest,22005
+Paris,Ouest,7559
+Moscou,Nord,12083
+New York,Ouest,9427
+Tokyo,Centre,16133
+Berlin,Moderne,19379
+Moscou,Industriel,17500
+New York,Est,21638
+Paris,Ouest,18670
+Rome,Moderne,22207
+Sydney,Résidentiel,14269
+Paris,Sud,10303
+Sydney,Industriel,9965
+Rome,Nord,5126
+Berlin,Résidentiel,12643
+Paris,Moderne,22781
+Londres,Moderne,20853
+Berlin,Sud,12802
+Londres,Industriel,20638
+Sydney,Historique,10695
+Sydney,Ouest,5445
+Berlin,Moderne,19920
+Berlin,Sud,18855
+Tokyo,Historique,14462
+Moscou,Centre,19776
+Rome,Moderne,7243
+New York,Est,22325
+Moscou,Commercial,9034
+Moscou,Nord,22882
+Paris,Ouest,23572
+Moscou,Historique,6233
+Moscou,Moderne,8298
+Berlin,Centre,7179
+New York,Résidentiel,24856
+Madrid,Ouest,15052
+Rome,Nord,18989
+New York,Sud,19198
+Moscou,Centre,19665
+New York,Sud,20799
+Dubai,Centre,7293
+Londres,Résidentiel,17382
+Rome,Commercial,22508
+Londres,Centre,23306
+New York,Historique,9891
+Londres,Résidentiel,10878
+Dubai,Centre,20010
+Tokyo,Nord,20635
+Londres,Est,9701
+Dubai,Centre,8664
+Rome,Est,15531
+Sydney,Nord,23483
+New York,Résidentiel,12631
+Berlin,Nord,13492
+Paris,Résidentiel,12206
+Rome,Commercial,8410
+Londres,Résidentiel,21695
+Moscou,Ouest,20965
+Paris,Commercial,16841
+New York,Centre,19848
+Dubai,Nord,7537
+Moscou,Est,15827
+Sydney,Résidentiel,8917
+Moscou,Industriel,11002
+Paris,Centre,15569
+Dubai,Industriel,23441
+Dubai,Moderne,13203
+New York,Ouest,15029
+Paris,Nord,14699
+Sydney,Nord,22135
+Tokyo,Résidentiel,22940
+Sydney,Historique,7352
+Rome,Est,9067
+Dubai,Industriel,24794
+Tokyo,Résidentiel,14364
+Rome,Centre,10347
+Tokyo,Centre,9379
+Tokyo,Résidentiel,20440
+New York,Moderne,7673
+New York,Commercial,8132
+Berlin,Historique,22611
+Sydney,Historique,13153
+Rome,Ouest,6005
+Dubai,Sud,12737
+Sydney,Historique,8858
+Tokyo,Ouest,20790
+Moscou,Commercial,13789
+Madrid,Historique,11188
+Paris,Résidentiel,24095
+Londres,Centre,12105
+Moscou,Est,16349
+Rome,Centre,12840
+New York,Est,12597
+Madrid,Centre,9596
+Londres,Historique,15498
+Londres,Nord,14317
+Sydney,Ouest,9669
+Londres,Industriel,10807
+Rome,Ouest,14821
+Moscou,Est,5673
+Dubai,Sud,14966
+Londres,Sud,6217
+Dubai,Nord,12226
+Rome,Historique,13695
+Sydney,Historique,24594
+Madrid,Centre,19368
+Berlin,Résidentiel,9074
+Paris,Centre,17598
+Paris,Industriel,11108
+New York,Industriel,23944
+Londres,Moderne,10734
+Berlin,Sud,21766
+Berlin,Commercial,15634
+Paris,Résidentiel,13378
+Tokyo,Est,20908
+Sydney,Historique,24980
+Dubai,Ouest,19129
+Madrid,Résidentiel,23238
+Berlin,Ouest,11752
+Madrid,Résidentiel,5207
+Rome,Industriel,23018
+Dubai,Ouest,17285
+Madrid,Historique,10015
+Sydney,Est,5936
+Paris,Historique,6434
+Rome,Nord,11834
+Rome,Commercial,5425
+Rome,Centre,18997
+Londres,Ouest,16470
+New York,Commercial,23110
+Dubai,Historique,9445
+Paris,Résidentiel,10417
+Dubai,Moderne,6155
+Paris,Commercial,12011
+Tokyo,Moderne,5507
+Sydney,Est,21249
+Moscou,Nord,13021
+New York,Résidentiel,14699
+Berlin,Ouest,7293
+New York,Moderne,17243
+Londres,Ouest,16815
+Sydney,Nord,11487
+Rome,Sud,12771
+Tokyo,Industriel,23013
+Tokyo,Centre,14779
+Rome,Sud,16663
+Dubai,Sud,17298
+Dubai,Historique,19573
+Madrid,Est,5919
+Sydney,Résidentiel,10561
+Tokyo,Est,14094
+Madrid,Ouest,15698
+Rome,Moderne,8411
+Tokyo,Moderne,19668
+New York,Moderne,18099
+Madrid,Moderne,8055
+Sydney,Résidentiel,17240
+Madrid,Commercial,14059
+Tokyo,Ouest,21369
+Moscou,Est,16569
+New York,Centre,12255
+Madrid,Nord,15060
+New York,Moderne,16408
+Paris,Sud,13125
+New York,Historique,15407
+Sydney,Historique,18764
+Londres,Industriel,22746
+Rome,Ouest,21830
+Sydney,Centre,23105
+Sydney,Nord,21005
+New York,Résidentiel,18312
+Dubai,Centre,12299
+Rome,Résidentiel,9917
+Sydney,Ouest,15445
+Moscou,Centre,14745
+Dubai,Centre,16167
+New York,Moderne,20125
+Tokyo,Industriel,9101
+Berlin,Résidentiel,15297
+Dubai,Résidentiel,5034
+Sydney,Moderne,10618
+Rome,Est,14940
+Londres,Moderne,6892
+Sydney,Résidentiel,13946
+Tokyo,Sud,16782
+Londres,Résidentiel,18016
+Tokyo,Moderne,9813
+Dubai,Est,13521
+New York,Historique,17669
+New York,Est,5686
+Paris,Est,20554
+New York,Est,5284
+Paris,Historique,20857
+New York,Nord,16777
+Tokyo,Est,22724
+Tokyo,Ouest,8668
+Berlin,Résidentiel,5777
+Dubai,Centre,24343
+Londres,Résidentiel,13048
+New York,Ouest,17974
+Madrid,Sud,22268
+Londres,Industriel,15198
+Madrid,Ouest,18804
+Dubai,Industriel,12146
+Paris,Nord,16036
+Madrid,Ouest,12628
+New York,Ouest,8333
+Moscou,Sud,6663
+Rome,Moderne,15488
+Paris,Moderne,21908
+Berlin,Ouest,19638
+Rome,Industriel,15452
+Berlin,Centre,21493
+Londres,Moderne,9729
+New York,Centre,6118
+Tokyo,Commercial,20647
+Moscou,Centre,20748
+Paris,Industriel,7846
+Madrid,Est,18517
+New York,Historique,24955
+Sydney,Nord,22886
+Rome,Nord,22335
+Tokyo,Centre,21717
+New York,Résidentiel,10046
+Tokyo,Moderne,16749
+Moscou,Historique,15798
+Madrid,Industriel,13721
+Moscou,Est,15949
+Tokyo,Sud,5737
+Dubai,Est,10179
+New York,Moderne,17532
+New York,Centre,19080
+Tokyo,Est,16607
+Sydney,Sud,17663
+New York,Sud,13188
+Madrid,Est,17716
+Berlin,Centre,23837
+Paris,Ouest,24782
+Rome,Résidentiel,6746
+Londres,Industriel,19030
+Dubai,Industriel,23156
+Madrid,Historique,12708
+Sydney,Centre,19347
+Madrid,Commercial,16594
+Berlin,Commercial,9882
+Londres,Nord,18414
+Paris,Moderne,22175
+Dubai,Moderne,14542
+Madrid,Industriel,10429
+Paris,Résidentiel,15033
+Berlin,Est,15615
+Moscou,Est,20574
+Londres,Industriel,20374
+New York,Moderne,20036
+Madrid,Historique,17932
+Berlin,Historique,20248
+Dubai,Industriel,18163
+Berlin,Industriel,12150
+Sydney,Commercial,9577
+Tokyo,Historique,20419
+Madrid,Nord,6445
+Dubai,Centre,20896
+Moscou,Sud,6765
+Londres,Ouest,12868
+Rome,Historique,11379
+Paris,Historique,23828
+Paris,Résidentiel,10185
+Tokyo,Centre,21361
+Moscou,Centre,24164
+Berlin,Sud,20019
+Moscou,Nord,23721
+Sydney,Historique,23255
+Paris,Résidentiel,11240
+Paris,Moderne,6332
+Tokyo,Centre,12203
+Paris,Moderne,12696
+Moscou,Est,18775
+Tokyo,Est,16609
+Dubai,Industriel,16424
+Rome,Moderne,8430
+Sydney,Commercial,15297
+Rome,Industriel,7132
+Tokyo,Centre,10043
+Londres,Centre,11938
+Berlin,Centre,12380
+Londres,Historique,14279
+Berlin,Moderne,12745
+Madrid,Centre,20090
+Dubai,Centre,5143
+Madrid,Nord,23056
+Londres,Centre,18224
+Madrid,Sud,10566
+Moscou,Historique,10983
+Paris,Ouest,8643
+Rome,Sud,13853
+Paris,Moderne,7944
+Rome,Industriel,5045
+Tokyo,Commercial,19054
+Tokyo,Commercial,5867
+Londres,Ouest,22204
+Berlin,Industriel,10681
+Dubai,Est,23564
+Londres,Historique,21505
+Madrid,Moderne,17933
+Dubai,Sud,7072
+Berlin,Historique,12397
+Sydney,Historique,10461
+New York,Ouest,16482
+Berlin,Nord,21948
+Paris,Ouest,11910
+Berlin,Nord,24120
+Madrid,Commercial,5800
+Londres,Ouest,19755
+Tokyo,Commercial,22195
+Berlin,Sud,6598
+Paris,Nord,17533
+Berlin,Commercial,12495
+Sydney,Nord,18713
+New York,Moderne,15540
+Londres,Résidentiel,5389
+Londres,Est,16782
+Berlin,Moderne,14637
+Madrid,Industriel,15075
+Madrid,Commercial,5495
+Rome,Résidentiel,8472
+Moscou,Nord,11204
+New York,Centre,12374
+Berlin,Sud,11288
+Sydney,Centre,24102
+Rome,Résidentiel,12103
+Moscou,Nord,10815
+Rome,Sud,17067
+Dubai,Industriel,20210
+Londres,Résidentiel,8354
+Sydney,Nord,18543
+Rome,Est,14044
+Dubai,Industriel,18937
+Madrid,Moderne,14363
+Paris,Commercial,23144
+Tokyo,Ouest,18953
+New York,Centre,12718
+New York,Industriel,12686
+New York,Moderne,12959
+Rome,Nord,14178
+Tokyo,Commercial,11590
+Paris,Industriel,7239
+Madrid,Est,8623
+Londres,Centre,20496
+Paris,Commercial,7307
+Moscou,Nord,24353
+Londres,Historique,9264
+Madrid,Industriel,20241
+Paris,Ouest,13699
+Tokyo,Industriel,21183
+Sydney,Sud,14270
+Moscou,Centre,23526
+Sydney,Moderne,7745
+Sydney,Sud,6031
+Moscou,Sud,22525
+Paris,Commercial,15150
+Rome,Commercial,7213
+Dubai,Ouest,20676
+Madrid,Industriel,8516
+New York,Moderne,15040
+Sydney,Commercial,22595
+New York,Ouest,5625
+Moscou,Industriel,13124
+Sydney,Résidentiel,18925
+Moscou,Sud,6561
+New York,Nord,16560
+Madrid,Résidentiel,10214
+Paris,Commercial,12970
+Berlin,Nord,23659
+Berlin,Nord,12859
+Moscou,Industriel,6851
+Tokyo,Résidentiel,12730
+Madrid,Commercial,6262
+Dubai,Est,13359
+Paris,Est,9253
+Madrid,Moderne,9439
+Dubai,Ouest,24695
+Tokyo,Ouest,7807
+Madrid,Sud,13297
+Dubai,Centre,16377
+New York,Nord,22632
+Paris,Centre,24417
+Berlin,Centre,8125
+Sydney,Commercial,8936
+Londres,Résidentiel,18796
+Londres,Résidentiel,22948
+New York,Industriel,13595
+Sydney,Ouest,21897
+Tokyo,Centre,19765
+Paris,Est,13215
+Berlin,Historique,19027
+Sydney,Industriel,24556
+Moscou,Historique,10619
+Paris,Industriel,13180
+Dubai,Industriel,15575
+Rome,Industriel,22436
+Berlin,Est,20411
+Paris,Centre,9870
+Sydney,Est,17991
+Sydney,Est,14516
+Rome,Industriel,23918
+Tokyo,Est,14673
+Moscou,Ouest,12176
+Tokyo,Centre,24994
+Tokyo,Commercial,18781
+Dubai,Historique,18152
+Rome,Ouest,13017
+Berlin,Nord,22280
+Tokyo,Nord,19818
+Berlin,Commercial,9964
+Sydney,Nord,21842
+Rome,Ouest,6806
+Londres,Commercial,8376
+Madrid,Résidentiel,18596
+Tokyo,Centre,21053
+Berlin,Nord,5272
+Tokyo,Commercial,6010
+Berlin,Moderne,15929
+Paris,Historique,11272
+Tokyo,Résidentiel,15735
+New York,Est,13318
+Tokyo,Résidentiel,18409
+Sydney,Moderne,13613
+Rome,Centre,15157
+Moscou,Résidentiel,16924
+Madrid,Historique,20772
+Dubai,Commercial,24663
+New York,Historique,5131
+Paris,Commercial,21964
+Madrid,Moderne,5096
+New York,Historique,16338
+New York,Commercial,13905
+Rome,Nord,12687
+Berlin,Moderne,16087
+Sydney,Sud,21287
+Sydney,Historique,8389
+Moscou,Centre,11108
+Londres,Résidentiel,8019
+Dubai,Industriel,18396
+Rome,Résidentiel,5584
+Madrid,Historique,18964
+Berlin,Centre,11064
+Sydney,Nord,6721
+Paris,Est,22478
+Tokyo,Centre,8851
+Sydney,Résidentiel,21207
+Moscou,Industriel,5971
+Rome,Est,16817
+New York,Nord,21705
+Rome,Industriel,9095
+Tokyo,Résidentiel,23867
+Dubai,Industriel,15788
+Dubai,Est,11144
+Madrid,Centre,14917
+Berlin,Centre,6562
+Berlin,Est,11963
+Moscou,Ouest,24065
+Paris,Centre,8102
+Berlin,Historique,23500
+Berlin,Centre,5504
+New York,Centre,16690
+Rome,Sud,10661
+Rome,Sud,21631
+Sydney,Nord,8992
+Tokyo,Commercial,21329
+Sydney,Est,21380
+Sydney,Historique,21291
+Londres,Moderne,6651
+Tokyo,Centre,12789
+New York,Est,11464
+Paris,Est,22948
+Tokyo,Moderne,15881
+Sydney,Commercial,19542
+Paris,Sud,17779
+Madrid,Moderne,17365
+Berlin,Ouest,22747
+Sydney,Historique,15398
+Rome,Moderne,21443
+Moscou,Moderne,22035
+Sydney,Moderne,10736
+New York,Commercial,19920
+Moscou,Sud,8728
+New York,Moderne,6960
+Madrid,Centre,15923
+Paris,Est,10651
+Moscou,Centre,8791
+Sydney,Historique,22353
+Moscou,Industriel,15081
+Dubai,Ouest,24641
+Dubai,Industriel,20284
+Rome,Centre,22259
+Rome,Moderne,6923
+Tokyo,Est,13001
+Dubai,Sud,20132
+Berlin,Historique,6010
+Rome,Moderne,14867
+Moscou,Ouest,7005
+Berlin,Commercial,15008
+Sydney,Sud,23617
+Tokyo,Nord,15059
+Madrid,Ouest,20856
+New York,Nord,21050
+Madrid,Centre,19450
+Rome,Résidentiel,9449
+Paris,Historique,16351
+Paris,Industriel,10613
+Dubai,Centre,5971
+Moscou,Industriel,7652
+Rome,Industriel,8413
+Berlin,Historique,17337
+Berlin,Sud,20644
+Londres,Industriel,13492
+Berlin,Moderne,5758
+Paris,Sud,15260
+Tokyo,Centre,17004
+Rome,Commercial,10090
+Tokyo,Résidentiel,21603
+Rome,Nord,14792
+Rome,Résidentiel,10247
+New York,Moderne,22589
+Londres,Historique,21405
+Berlin,Sud,19010
+Tokyo,Ouest,7722
+Berlin,Résidentiel,13401
+Sydney,Sud,8334
+Moscou,Industriel,22748
+Paris,Industriel,9492
+Paris,Est,21078
+Rome,Industriel,8793
+Paris,Est,20895
+New York,Commercial,24107
+Paris,Centre,18154
+Dubai,Centre,21694
+Londres,Moderne,23110
+Dubai,Nord,11442
+Berlin,Moderne,18650
+New York,Est,7382
+Paris,Centre,9367
+Sydney,Commercial,19757
+Berlin,Sud,8217
+Moscou,Commercial,5983
+Rome,Historique,18633
+Rome,Centre,14165
+Sydney,Nord,21849
+Madrid,Industriel,19258
+Paris,Historique,10238
+Berlin,Centre,10896
+Dubai,Résidentiel,19316
+New York,Nord,17833
+Londres,Nord,11791
+Dubai,Est,23602
+Moscou,Résidentiel,24192
+Tokyo,Centre,22200
+Dubai,Est,8451
+Moscou,Ouest,24490
+Rome,Résidentiel,17047
+Rome,Industriel,17383
+Madrid,Moderne,18452
+Sydney,Industriel,12089
+New York,Centre,23500
+Londres,Ouest,21164
+Dubai,Résidentiel,18880
+Madrid,Résidentiel,8154
+Sydney,Nord,9448
+Paris,Ouest,21039
+Dubai,Nord,23648
+New York,Centre,8069
+Londres,Est,6773
+Rome,Centre,18529
+Tokyo,Commercial,12294
+Sydney,Industriel,19225
+Rome,Ouest,11560
+Madrid,Ouest,19189
+Madrid,Commercial,12804
+New York,Est,15487
+Dubai,Historique,9709
+Paris,Commercial,23571
+Sydney,Centre,5194
+Sydney,Résidentiel,5586
+Sydney,Centre,14540
+Paris,Est,11656
+Moscou,Historique,20052
+Berlin,Sud,23195
+New York,Centre,23854
+Tokyo,Industriel,11422
+Dubai,Ouest,14321
+Madrid,Résidentiel,13619
+New York,Historique,14028
+Berlin,Moderne,10284
+Londres,Centre,23336
+Londres,Résidentiel,20692
+Sydney,Sud,8083
+Paris,Sud,17252
+Madrid,Nord,13976
+Paris,Ouest,13765
+Londres,Résidentiel,22707
+New York,Historique,21020
+Londres,Centre,22907
+Sydney,Résidentiel,24261
+Moscou,Industriel,14294
+Dubai,Centre,19957
+Dubai,Ouest,5187
+Madrid,Est,5099
+New York,Centre,6951
+Moscou,Centre,12313
+Paris,Résidentiel,16111
+Dubai,Centre,16573
+Rome,Résidentiel,9472
+Tokyo,Est,13440
+New York,Commercial,14498
+Sydney,Est,5553
+Berlin,Résidentiel,21191
+New York,Industriel,19046
+Rome,Sud,8341
+Dubai,Sud,15272
+New York,Est,14964
+Rome,Nord,20063
+New York,Historique,16906
+Dubai,Commercial,23431
+Moscou,Sud,21566
+Paris,Résidentiel,5652
+New York,Industriel,5559
+Paris,Sud,7641
+Rome,Historique,5299
+Madrid,Nord,8344
+Dubai,Industriel,13597
+Dubai,Industriel,22259
+Londres,Nord,15530
+Moscou,Est,23100
+Berlin,Industriel,13949
+New York,Est,21253
+New York,Commercial,11228
+Tokyo,Nord,16051
+Dubai,Industriel,16638
+Londres,Est,14805
+Rome,Sud,15845
+Londres,Nord,9021
+Dubai,Ouest,10398
+Berlin,Est,23939
+Madrid,Sud,23958
+New York,Centre,18350
+Rome,Est,9403
+Berlin,Commercial,15386
+Berlin,Commercial,23581
+Dubai,Ouest,23338
+Tokyo,Moderne,20932
+Paris,Résidentiel,19249
+Berlin,Est,22435
+Tokyo,Historique,9606
+Dubai,Ouest,16433
+Madrid,Industriel,14999
+Rome,Historique,24976
+Moscou,Nord,13520
+Dubai,Centre,6664
+New York,Sud,9369
+New York,Industriel,18811
+Madrid,Historique,12278
+Berlin,Résidentiel,13426
+Berlin,Ouest,20220
+Paris,Nord,13309
+Londres,Est,11781
+Sydney,Historique,13330
+Dubai,Sud,10915
+Rome,Commercial,15671
+Sydney,Commercial,19373
+Sydney,Ouest,9634
+Moscou,Moderne,14929
+Tokyo,Nord,22379
+Tokyo,Industriel,15930
+Madrid,Sud,24574
+Tokyo,Résidentiel,12633
+Dubai,Industriel,24166
+Madrid,Commercial,24205
+Dubai,Centre,18999
+Londres,Historique,15895
+Berlin,Nord,11998
+Londres,Sud,11318
+Sydney,Est,21976
+Moscou,Centre,16141
+Berlin,Ouest,22866
+Londres,Résidentiel,5804
+Moscou,Moderne,5608
+Sydney,Commercial,22644
+Berlin,Résidentiel,14744
+Rome,Historique,10795
+Madrid,Commercial,24048
+Paris,Sud,17443
+Madrid,Ouest,14485
+Paris,Industriel,22540
+Madrid,Est,21338
+Moscou,Moderne,11483
+Dubai,Centre,19859
+Rome,Nord,22995
+New York,Est,15850
+Moscou,Résidentiel,6156
+Dubai,Commercial,16814
+Tokyo,Commercial,16770
+Londres,Industriel,16866
+Berlin,Moderne,5621
+Rome,Résidentiel,9320
+Tokyo,Moderne,13594
+Dubai,Commercial,24703
+Londres,Industriel,11843
+Tokyo,Ouest,20733
+Paris,Historique,22386
+Tokyo,Nord,17134
+Paris,Industriel,16800
+Paris,Historique,11590
+Dubai,Commercial,20269
+Tokyo,Moderne,8121
+Rome,Nord,16740
+Rome,Sud,19973
+Paris,Moderne,18443
+Londres,Centre,14715
+Paris,Historique,23558
+Rome,Commercial,17238
+Tokyo,Sud,18178
+Dubai,Industriel,15818
+Madrid,Sud,7125
+Dubai,Nord,8813
+Tokyo,Sud,19443
+Paris,Industriel,19281
+Londres,Centre,23913
+Dubai,Nord,13028
+Tokyo,Moderne,6888
+New York,Ouest,5889
+Londres,Industriel,14397
+Sydney,Nord,22333
+Dubai,Est,17275
+New York,Nord,23298
+Londres,Commercial,22516
+Berlin,Moderne,13278
+Berlin,Industriel,24508
+Madrid,Nord,12617
+Londres,Moderne,20930
+Paris,Ouest,20976
+Berlin,Sud,6994
+Madrid,Commercial,14459
+Londres,Ouest,14836
+New York,Industriel,11813
+Berlin,Centre,23692
+Madrid,Résidentiel,7366
+Rome,Sud,14004
+Sydney,Résidentiel,14640
+Rome,Résidentiel,12153
+Tokyo,Industriel,20954
+Berlin,Historique,9379
+Paris,Historique,16579
+Paris,Sud,7782
+Madrid,Est,9130
+New York,Centre,16217
+Paris,Commercial,21397
+Paris,Nord,5117
+Madrid,Historique,16841
+Rome,Moderne,24611
+Paris,Ouest,16234
+Paris,Résidentiel,12502
+Sydney,Ouest,15311
+Paris,Résidentiel,17910
+Berlin,Commercial,5628
+Londres,Nord,11217
+Moscou,Résidentiel,10142
+Sydney,Centre,15082
+Londres,Moderne,13025
+Madrid,Centre,17619
+New York,Ouest,17889
+Tokyo,Historique,10806
+Madrid,Ouest,22116
+Madrid,Ouest,5367
+Londres,Sud,18981
+Londres,Historique,8683
+Berlin,Ouest,23608
+New York,Résidentiel,23674
+Dubai,Commercial,11898
+Paris,Centre,10771
+Dubai,Sud,19833
+Rome,Est,21346
+Madrid,Historique,5457
+Madrid,Nord,13413
+Londres,Industriel,9628
+Madrid,Centre,7887
+Paris,Moderne,9273
+Madrid,Centre,5189
+Tokyo,Historique,13352
+New York,Sud,7783
+Tokyo,Sud,24745
+Madrid,Résidentiel,12438
+Berlin,Centre,20741
+Tokyo,Est,5906
+Sydney,Commercial,10747
+Paris,Moderne,8753
+New York,Nord,17165
+Londres,Est,5289
+Tokyo,Nord,19934
+Londres,Nord,6786
+Dubai,Sud,6477
+Tokyo,Nord,18337
+Paris,Sud,10035
+Tokyo,Centre,21835
+Londres,Ouest,21976
+Berlin,Moderne,10134
+Dubai,Résidentiel,15475
+Dubai,Ouest,23890
+Berlin,Historique,20684
+Madrid,Centre,13742
+New York,Commercial,19360
+Madrid,Sud,18892
+Rome,Résidentiel,18426
+Rome,Ouest,11427
+Moscou,Nord,5421
+Dubai,Industriel,13954
+Tokyo,Nord,13932
+Tokyo,Historique,15511
+Paris,Nord,5462
+New York,Nord,18369
+Sydney,Centre,15540
+Moscou,Est,12465
+Berlin,Est,11868
+Tokyo,Industriel,11403
+Sydney,Commercial,8580
+Dubai,Ouest,17710
+Dubai,Commercial,19931
+New York,Nord,24781
+New York,Sud,23428
+New York,Ouest,24189
+Londres,Industriel,21206
+Berlin,Est,8102
+Tokyo,Industriel,23627
+Londres,Industriel,24014
+Rome,Centre,24941
+Sydney,Ouest,15035
+Paris,Est,24087
+Londres,Ouest,8512
+Sydney,Historique,9215
+Madrid,Sud,10874
+Berlin,Nord,13340
+Paris,Nord,23654
+Rome,Sud,10654
+Tokyo,Est,19052
+Londres,Centre,5719
+Paris,Résidentiel,16066
+Sydney,Est,7986
+New York,Moderne,7829
+Rome,Sud,7686
+Paris,Centre,8090
+Rome,Centre,15438
+New York,Industriel,6953
+Dubai,Centre,22701
+New York,Sud,11705
+Dubai,Commercial,20748
+Londres,Commercial,22622
+Paris,Est,21044
+Rome,Est,15259
+Sydney,Sud,23492
+Paris,Moderne,20025
+Berlin,Historique,15398
+Rome,Est,12690
+Tokyo,Commercial,22392
+Berlin,Centre,16074
+Moscou,Résidentiel,5404
+Tokyo,Ouest,10458
+New York,Nord,18004
+Tokyo,Résidentiel,22404
+Londres,Historique,13145
+Dubai,Industriel,11653
+Moscou,Ouest,16613
+Paris,Sud,24147
+Dubai,Sud,10082
+New York,Historique,24658
+Rome,Industriel,6233
+Sydney,Ouest,20597
+Madrid,Historique,21812
+New York,Résidentiel,22720
+Moscou,Résidentiel,21672
+Tokyo,Résidentiel,18644
+Berlin,Industriel,6795
+Sydney,Sud,11431
+Tokyo,Centre,9135
+Londres,Moderne,15291
+Moscou,Résidentiel,24425
+Londres,Résidentiel,5371
+Paris,Résidentiel,22821
+Rome,Centre,5004
+Londres,Sud,17429
+Tokyo,Sud,6192
+Rome,Historique,5267
+Dubai,Moderne,7895
+Madrid,Centre,14628
+Dubai,Centre,10294
+Madrid,Est,22703
+Moscou,Est,8359
+Londres,Commercial,15896
+Sydney,Historique,11895
+Paris,Résidentiel,12816
+Sydney,Historique,16826
+Berlin,Ouest,13256
+Sydney,Historique,21927
+Sydney,Sud,8531
+Paris,Résidentiel,17393
+Sydney,Industriel,17862
+Sydney,Commercial,21132
+Tokyo,Nord,12697
+Tokyo,Industriel,9963
+Sydney,Nord,14437
+Moscou,Centre,22708
+Rome,Commercial,8961
+Londres,Centre,13792
+Londres,Moderne,8331
+Londres,Moderne,7393
+Sydney,Moderne,15090
+Moscou,Sud,22307
+Tokyo,Moderne,5109
