@@ -67,8 +67,18 @@ Accédez à l'application dans votre navigateur à l'adresse http://localhost:50
 
 Utilisez l'interface pour rechercher, afficher les prix, ajouter de nouveaux éléments, etc.
 
+## Tests unitaires
+Les tests sont à lancer avec le commande pytest ou python -m pytest
+Ils sont écris dans le fichier test-app.py
+
+1. Test de la page principale
+2. Test de l'affichage des prix pour une ville et un quartier donnés
+3. Test de l'ajout d'un nouvel élément (ville, quartier, prix) à la base de données
+
+Les 3 tests passent avec succès.
+
 ## Auteur
-Lucas SIMON
+Lucas SIMON & Quentin EPINAT
 
 
 
